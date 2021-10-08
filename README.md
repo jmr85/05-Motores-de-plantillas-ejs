@@ -16,13 +16,13 @@ Store product in a txt file
 Clone the project
 
 ```bash
-  git clone https://github.com/jmr85/05-Motores-de-plantillas-pug.git
+  git clone https://github.com/jmr85/05-Motores-de-plantillas-ejs.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd 05-Motores-de-plantillas-pug
+  cd 05-Motores-de-plantillas-ejs
 ```
 
 Install dependencies
