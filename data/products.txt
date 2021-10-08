@@ -1,0 +1,116 @@
+[
+	{
+		"id": 1,
+		"title": "FantaOriginal3",
+		"price": 110.05,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+	},
+	{
+		"id": 2,
+		"title": "SevenUp",
+		"price": 234.56,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+	},
+	{
+		"id": 3,
+		"title": "Cerveza Quilmes",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+	},
+	{
+		"id": 4,
+		"title": "Fanta2",
+		"price": 123.45,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+	},
+	{
+		"id": 5,
+		"title": "Yerba mate",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+	},
+	{
+		"id": 6,
+		"title": "Azucar 1Kg",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+	},
+	{
+		"id": 7,
+		"title": "Galletas",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+	},
+	{
+		"id": 8,
+		"title": "Manteca",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+	},
+	{
+		"id": 9,
+		"title": "Leche 1L",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+	},
+	{
+		"id": 10,
+		"title": "Yogur 1L",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+	},
+	{
+		"id": 11,
+		"title": "Yerba mate cualquiera",
+		"price": 200,
+		"thumbnail": "imagen yeba"
+	},
+	{
+		"id": 12,
+		"title": "vino tinto",
+		"price": "3",
+		"thumbnail": "IMAGEN"
+	},
+	{
+		"id": 13,
+		"title": "zapatillas",
+		"price": "21323",
+		"thumbnail": "IMAGEN"
+	},
+	{
+		"id": 14,
+		"title": "papas fritas",
+		"price": "100",
+		"thumbnail": "IMAGEN"
+	},
+	{
+		"id": 15,
+		"title": "Azucar maldonado",
+		"price": "55",
+		"thumbnail": ""
+	},
+	{
+		"id": 16,
+		"title": "galletitas",
+		"price": "122",
+		"thumbnail": ""
+	},
+	{
+		"id": 17,
+		"title": "coca cola 1.5 L",
+		"price": "123",
+		"thumbnail": ""
+	},
+	{
+		"id": 18,
+		"title": "Mouse optico",
+		"price": "1050",
+		"thumbnail": ""
+	},
+	{
+		"id": 19,
+		"title": "aZUCAR NEGRO",
+		"price": "12",
+		"thumbnail": ""
+	}
+]

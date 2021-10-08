@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include("templates/head") %>
+
+  <body>
+    <div>
+      <ul>
+        <% data.forEach(function(pr){ %>
+          <li>
+            <%= pr.title %> - <%= pr.price %> - <%= pr.thumbnail %>
+          </li>
+          <% }); %>
+      </ul>
+    </div>
+  </body>
+
+</html>
